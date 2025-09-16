@@ -1,0 +1,8 @@
+{
+    "name": "endang/myproject",
+    "description": "Proyek PHP sederhana menggunakan composer",
+    "version": "1.0.0",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
